@@ -3,14 +3,14 @@
 <h3 align="center">Data Science Student · ML & Analytics Enthusiast · IEEE Paper Presenter 📊</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Sam-Coder-DS&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/samarthsharma2004/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/samarthsharma12004/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="mailto:samarthsharma12004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://samarth-sharma-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
@@ -25,7 +25,7 @@
 - 💡 Passionate about turning raw data into actionable insights
 - 🧠 Strong foundation in **DSA** with C++ and Python
 
-📄 [Resume](#) · 📁 [Projects](#)
+📄 [Resume](https://drive.google.com/file/d/1ZOeoGOins18srhvkUOA-4_JvNMo9VcTS/view?usp=sharing) · 📁 [Projects](https://samarth-sharma-portfolio.vercel.app/#about)
 
 ---
 
@@ -51,14 +51,14 @@ Built an interactive dashboard to cluster customers by income & spending behavio
 
 ---
 
-### 🔹 [YouTube Trend Analyzer](YOUR_PROJECT_LINK)
+### 🔹 [YouTube Trend Analyzer](https://github.com/Sam-Coder-DS/youtube-trend-analyzer)
 > `Python` `Flask` `YouTube Data API v3` `NLTK` `Chart.js`
 
 Fetches live trending videos across 4 regions (India, US, UK, Japan), calculates custom engagement & trend scores, and uses NLP to detect rising topics before they go viral.
 
 ---
 
-### 🔹 [AI Resume Screener using Llama 3](YOUR_PROJECT_LINK)
+### 🔹 [AI Resume Screener using Llama 3](https://github.com/Sam-Coder-DS/ai-resume-screener)
 > `Python` `Llama 3` `GroqAPI` `BeautifulSoup` `JSON`
 
 End-to-end resume screener with Fit Score (out of 10), ATS keyword analysis, and a Skill Gap Table comparing required vs present skills with gap severity ratings.
@@ -79,12 +79,12 @@ End-to-end resume screener with Fit Score (out of 10), ATS keyword analysis, and
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sam-Coder-DS&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-Coder-DS&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Coder-DS&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
