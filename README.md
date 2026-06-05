@@ -76,16 +76,13 @@ End-to-end resume screener with Fit Score (out of 10), ATS keyword analysis, and
 
 ---
 
-## 📊 GitHub Stats
+## 🌱 Currently Learning & Building
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sam-Coder-DS&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-Coder-DS&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Coder-DS&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+- 📊 Advanced ML techniques — ensemble methods, feature engineering & model optimization
+- ☁️ Deepening Azure cloud skills — working towards more cloud-native data solutions
+- 🤖 Exploring LLM integrations with LangChain & RAG pipelines
+- 🌐 Building full-stack data dashboards with Flask + interactive visualizations
+- 🧩 Strengthening DSA problem-solving on LeetCode daily
 
 ---
 
