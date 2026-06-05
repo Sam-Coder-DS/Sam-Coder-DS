@@ -23,6 +23,7 @@
 - 💼 Interned at **IBM SkillsBuild** and **CodeAlpha** in Data Analytics & Data Science
 - ☁️ Certified in **Microsoft Azure AI Fundamentals** & **Azure Data Scientist Associate**
 - 💡 Passionate about turning raw data into actionable insights
+- 🧠 Strong foundation in **DSA** with C++ and Python
 
 📄 [Resume](#) · 📁 [Projects](#)
 
@@ -43,7 +44,7 @@
 
 ## 📌 Featured Projects
 
-### 🔹 [Customer Segmentation UI]([YOUR_PROJECT_LINK](https://github.com/Sam-Coder-DS/Customer-Segmentation-UI))
+### 🔹 [Customer Segmentation UI](https://github.com/Sam-Coder-DS/Customer-Segmentation-UI)
 > `Python` `Streamlit` `Pandas` `Scikit-learn` `KMeans` `Seaborn`
 
 Built an interactive dashboard to cluster customers by income & spending behavior. Users can explore segments visually in real time through a Streamlit UI.
